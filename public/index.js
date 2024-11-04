@@ -185,5 +185,3 @@ onAuthStateChanged(auth, (user) => {
     }
 });
 
-
- * /
